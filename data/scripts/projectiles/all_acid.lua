@@ -1,0 +1,1 @@
+dofile_once("data/scripts/projectiles/_spells_to_x.lua")("acid", true)
