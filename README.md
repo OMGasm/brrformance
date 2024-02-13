@@ -1,3 +1,3 @@
 # brrformance
 A Noita performance mod
-(also to make parts of it more maintainable)
+(also attempts to make parts of it reusable)
